@@ -1,0 +1,49 @@
+{ 
+  "channels" : [
+    {
+      "title" : "TV맛집",
+      "fbNativeInterval" : "5",
+      "fbNativeReload" : "true",
+      "notiOn" : "false",
+      "notiTitle" : "공지",
+      "notiMsg" : "감사합니다",
+      "notiPositiveText" : "확인",
+      "notiNegativeText" : "취소",
+      "type" : "0",
+      "typecnt" : "0",
+      "typenames" : [""],
+      "mainUrl" : "http://apis.sbs.co.kr/foodstar-api/1.1/search/",
+      "url" : "http://m.post.naver.com/my/series/detail/",
+      "searchUrl" : "http://m.post.naver.com/search/authorPost/",
+      "postId" : "11773044",
+      "memberNo" : "3669297",
+      "seriesNo" : "472832",
+      "programs" : "S01_V0000305532",
+      "sort" : "new",
+      "limit" : 15,
+      "itemList" : [
+          { "title" : "전지적참견시점", "id" : "1", "img" : "", "sort" : "1"},
+          { "title" : "맛있는녀석들", "id" : "2", "img" : "", "sort" : "2"},
+          { "title" : "배틀트립", "id" : "3", "img" : "", "sort" : "3"},
+          { "title" : "수요미식회", "id" : "4", "img" : "", "sort" : "4"},
+          { "title" : "백종원의골목식당", "id" : "5", "img" : "", "sort" : "5"},
+          { "title" : "생활의달인", "id" : "6", "img" : "", "sort" : "6"},
+          { "title" : "생방송오늘저녁", "id" : "7", "img" : "", "sort" : "7"},
+          { "title" : "생방송투데이", "id" : "8", "img" : "", "sort" : "8"},
+          { "title" : "6시내고향", "id" : "9", "img" : "", "sort" : "9"},
+          { "title" : "한국인의밥상", "id" : "10", "img" : "", "sort" : "10"},
+          { "title" : "식객남녀잘먹었습니다", "id" : "11", "img" : "", "sort" : "11"},
+          { "title" : "알쓸신잡", "id" : "12", "img" : "", "sort" : "12"},
+          { "title" : "2TV생생정보", "id" : "13", "img" : "", "sort" : "13"},
+          { "title" : "좋은아침", "id" : "14", "img" : "", "sort" : "14"},
+          { "title" : "생방송오늘아침", "id" : "15", "img" : "", "sort" : "15"},
+          { "title" : "기분좋은날", "id" : "16", "img" : "", "sort" : "16"},
+          { "title" : "모닝와이드", "id" : "17", "img" : "", "sort" : "17"},
+          { "title" : "식신로드", "id" : "18", "img" : "", "sort" : "18"},
+          { "title" : "맛있을지도", "id" : "19", "img" : "", "sort" : "19"},
+          { "title" : "VJ특공대", "id" : "20", "img" : "", "sort" : "20"}
+          
+      ]
+    }    
+  ]
+}
