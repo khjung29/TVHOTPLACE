@@ -22,6 +22,7 @@
       "sort" : "new",
       "limit" : 15,
       "itemList" : [
+          { "title" : "전체", "id" : "0", "sort" : "0"},
           { "title" : "전지적참견시점", "id" : "1", "sort" : "1"},
           { "title" : "맛있는녀석들", "id" : "2", "sort" : "2"},
           { "title" : "배틀트립", "id" : "3", "sort" : "3"},
@@ -44,6 +45,7 @@
           { "title" : "VJ특공대", "id" : "20", "sort" : "20"}
       ],
       "areaList" : [
+          { "title" : "전체", "id" : "0", "sort" : "0"},
           { "title" : "서울", "id" : "1", "sort" : "1"},
           { "title" : "인천", "id" : "2", "sort" : "2"},
           { "title" : "대전", "id" : "3", "sort" : "3"},
